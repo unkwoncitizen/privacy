@@ -1,0 +1,22 @@
+# Privacy Policy for Quran Reels Publisher
+
+Last updated: October 2026
+
+Quran Reels Publisher ("the App") is an automated internal utility used exclusively to manage and publish Quranic video content to the "Woman value in islam" Facebook Page.
+
+### 1. Information We Collect
+The App does not collect, store, sell, or share any personal identifiable information (PII) from Facebook users or page visitors. 
+
+### 2. Permissions & Data Usage
+The App accesses the Facebook Graph API solely to:
+- Authenticate Page Access Tokens.
+- Upload automated video reels and publish captions.
+
+### 3. Third-Party Services
+The App interacts with:
+- Meta Graph API (publishing reels)
+- Pixabay API (fetching royalty-free background videos)
+- Quran.com API (fetching verse text and audio)
+
+### 4. Contact
+For any questions regarding privacy, please contact the repository maintainer through GitHub.
